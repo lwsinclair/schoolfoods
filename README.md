@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/babo072-schoolfoods-badge.png)](https://mseep.ai/app/babo072-schoolfoods)
+
 # SchoolFoods
 
 SchoolFoods는 전국 학교의 급식 정보를 조회할 수 있는 서비스입니다. Model Context Protocol(MCP)을 지원하며, 다양한 방식으로 학교 급식 정보를 쉽게 조회할 수 있습니다.
